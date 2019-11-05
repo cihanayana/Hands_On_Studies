@@ -10,8 +10,6 @@ Find out all users that received the email and perform enterprise search to see 
 If malicious, perform a whois analysis, find how many domains registered with the mail address.
 Inform all users about the fishing email and block all the domains.
 How do you analyze malware in FireEye?
-
-
 Hash, virustotal.com
 Based on virustotal.com, this file is malicious. Trojan etc.
 View triage summary
